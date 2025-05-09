@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+env/
+venv/
+pyenv/
+*.log
+
+# Chainlit cache
+.chainlit/
+
+# Secrets and keys
+secrets.toml
+*.env
+*.pem
+*.key
+
+# Streamlit cache
+.streamlit/
+
+# Secrets and keys
+secrets.toml
+*.env
+*.pem
+*.key
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda (optional)
+conda-meta/
+*.conda
