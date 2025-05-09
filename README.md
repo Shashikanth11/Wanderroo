@@ -1,4 +1,5 @@
-# VacationGPT
+# Wanderroo
+
 
 First create a chainlit folder inside that create secrets.toml file and provide your API KEY as api_key= "sk......."
 
